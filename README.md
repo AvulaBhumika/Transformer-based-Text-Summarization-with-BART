@@ -6,6 +6,9 @@ An advanced and interactive **text summarization application** built using Huggi
 
 ##  Features
 
+![Text Summariser demo](https://github.com/user-attachments/assets/d9ee6bd3-0589-4ba8-9396-8529192d4e27)
+
+
 -  **Abstractive summarization** using `facebook/bart-large-cnn`
 -  **Handles long documents** by intelligent sentence chunking
 -  Interactive **Gradio UI**
